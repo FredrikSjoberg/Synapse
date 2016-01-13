@@ -71,6 +71,9 @@
 		76EACCD51C46698800EC2E7D /* Synapse */ = {
 			isa = PBXGroup;
 			children = (
+				76EACCED1C4669DB00EC2E7D /* Classes */,
+				76EACCEE1C4669DB00EC2E7D /* Functions */,
+				76EACCEF1C4669DB00EC2E7D /* Protocols */,
 				76EACCD61C46698800EC2E7D /* Synapse.h */,
 				76EACCD81C46698800EC2E7D /* Info.plist */,
 			);
@@ -84,6 +87,27 @@
 				76EACCE41C46698800EC2E7D /* Info.plist */,
 			);
 			path = SynapseTests;
+			sourceTree = "<group>";
+		};
+		76EACCED1C4669DB00EC2E7D /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Classes;
+			sourceTree = "<group>";
+		};
+		76EACCEE1C4669DB00EC2E7D /* Functions */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Functions;
+			sourceTree = "<group>";
+		};
+		76EACCEF1C4669DB00EC2E7D /* Protocols */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Protocols;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
